@@ -5,25 +5,25 @@
 
 JNSEC PWN 训练题目仓库  
 
-## Usage Instructions  
+## 使用方法  
 
 ### Step1.  
 
-Ensure the following files are prepared  
+确保准备好以下文件  
 
-- **[Required] Challenge information**
-- **[Required] Source code**  
-- **[Required] Attachments**  
-- **[Required] Exp**  
-- [Optional] Other files that may be needed (e.g., libc)  
+- **[必须] 题目信息**
+- **[必须] 源码**  
+- **[必须] 附件**  
+- **[必须] exp**  
+- [可选] libc等其他做题可能需要的文件  
 
-Use the project https://github.com/CTF-Archives/ctf-docker-template to set up the Docker folder (no need to build; assumed here as `pwn-ubuntu_22.04`).  
+使用项目 https://github.com/CTF-Archives/ctf-docker-template 搭建docker文件夹，无需构建（以下假设为 `pwn-ubuntu_22.04` ）
 
 ### Step2.  
 
-In **the folder corresponding to the challenge's difficulty**, create a directory named in the format `[Challenge Type] + Challenge Name`.  
+在**你认为该题目的难度的对应文件夹**中，以 `[题目类型] + 题目名` 格式创建文件夹  
 
-Place all necessary files in the following structure  
+将所有需要的文件按照如下结构放入文件夹  
 
 ```
 [ret2text] testyourpayload # Challenge Type  
@@ -38,7 +38,7 @@ Place all necessary files in the following structure
       └─ attachment.c # Challenge Source Code (adjust as needed)
 ```
 
-## doc.json Example  
+## doc.json 示例  
 
 ```json
 {
@@ -52,4 +52,3 @@ Place all necessary files in the following structure
     }
 }
 ```
-
