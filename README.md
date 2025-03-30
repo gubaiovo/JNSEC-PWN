@@ -7,6 +7,10 @@ JNSEC PWN Training Challenge Repository
 
 ## Usage Instructions  
 
+### Step0.  
+
+Fork this project  
+
 ### Step1.  
 
 Ensure the following files are prepared  
@@ -37,6 +41,10 @@ Place all necessary files in the following structure
    └─ src  
       └─ attachment.c # Challenge Source Code (adjust as needed)
 ```
+
+### Step3.  
+
+PR  
 
 ## doc.json Example  
 

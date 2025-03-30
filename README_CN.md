@@ -7,6 +7,10 @@ JNSEC PWN 训练题目仓库
 
 ## 使用方法  
 
+### Step0.  
+
+fork 本项目  
+
 ### Step1.  
 
 确保准备好以下文件  
@@ -37,6 +41,10 @@ JNSEC PWN 训练题目仓库
    └─ src  
       └─ attachment.c # Challenge Source Code (adjust as needed)
 ```
+
+### Step3.  
+
+PR  
 
 ## doc.json 示例  
 
