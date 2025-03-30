@@ -3,7 +3,7 @@
 - zh_CN [简体中文](README_CN.md)
 - en [English](README.md)
 
-JNSEC PWN 训练题目仓库  
+JNSEC PWN Training Challenge Repository  
 
 ## Usage Instructions  
 
