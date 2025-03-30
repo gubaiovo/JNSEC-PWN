@@ -26,7 +26,7 @@ In **the folder corresponding to the challenge's difficulty**, create a director
 Place all necessary files in the following structure  
 
 ```
-[ret2text] testyourpayload # Challenge Type  
+[ret2text] testyourpayload # Challenge  
 ├─ doc.json # Challenge Information  
 ├─ pwn-ubuntu_22.04 # Docker Source Files  
 |  └─ ...

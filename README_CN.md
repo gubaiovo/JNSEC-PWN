@@ -26,7 +26,7 @@ JNSEC PWN 训练题目仓库
 将所有需要的文件按照如下结构放入文件夹  
 
 ```
-[ret2text] testyourpayload # Challenge Type  
+[ret2text] testyourpayload # Challenge  
 ├─ doc.json # Challenge Information  
 ├─ pwn-ubuntu_22.04 # Docker Source Files  
 |  └─ ...
