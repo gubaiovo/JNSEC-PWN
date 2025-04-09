@@ -1,0 +1,11 @@
+{
+    "author": "gubai",
+    "challenge": {
+        "difficulty": "Base",
+        "category": "PIE",
+        "name": "Shattered Pointers Can't Point to Love",
+        "introduction": "like the uncooled moonlight in your eyes on that breakup night.",
+        "tip": "leak address",
+        "port": 9999
+    }
+}
