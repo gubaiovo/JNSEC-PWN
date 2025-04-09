@@ -1,0 +1,11 @@
+{
+    "author": "gubai",
+    "challenge": {
+        "difficulty": "Base",
+        "category": "PIE",
+        "name": "The Seventh Stack Overflow Confession",
+        "introduction": "mirroring the randomized heartbeat frequencies from when we first met.",
+        "tip": "partial overwrite",
+        "port": 9999
+    }
+}
