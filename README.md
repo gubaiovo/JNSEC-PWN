@@ -44,7 +44,9 @@ Place all necessary files in the following structure
 
 ### Step3.  
 
-PR  
+Pull Request
+
+**Please ensure that only one challenge is submitted per pull request.**
 
 ## doc.json Example  
 

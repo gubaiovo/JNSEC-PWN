@@ -44,7 +44,9 @@ fork 本项目
 
 ### Step3.  
 
-PR  
+Pull Request  
+
+**每次 pr 请保证只有一个题目上传**  
 
 ## doc.json 示例  
 
