@@ -14,10 +14,10 @@ Fork this project
 
 Ensure the following files are prepared  
 
-- **[Required] Challenge information**
-- **[Required] Source code**  
+- **[Required] Challenge information**  
 - **[Required] Attachments**  
 - **[Required] Exp**  
+- [Optional] Source code  
 - [Optional] Other files that may be needed (e.g., libc)  
 
 Use the project https://github.com/CTF-Archives/ctf-docker-template to set up the Docker folder (no need to build; assumed here as `pwn-ubuntu_22.04`).  
