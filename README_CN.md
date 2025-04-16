@@ -15,10 +15,10 @@ fork 本项目
 
 确保准备好以下文件  
 
-- **[必须] 题目信息**
-- **[必须] 源码**  
+- **[必须] 题目信息**  
 - **[必须] 附件**  
 - **[必须] exp**  
+- [必须] 源码  
 - [可选] libc等其他做题可能需要的文件  
 
 使用项目 https://github.com/CTF-Archives/ctf-docker-template 搭建docker文件夹，无需构建（以下假设为 `pwn-ubuntu_22.04` ）
@@ -44,7 +44,7 @@ fork 本项目
 
 ### Step3.  
 
-Pull Request  
+Pull Request，参考 [贡献文档](CONTRIBUTING_zh_cn.md)
 
 **每次 pr 请保证只有一个题目上传**  
 

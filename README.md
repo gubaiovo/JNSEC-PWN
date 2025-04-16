@@ -44,7 +44,7 @@ Place all necessary files in the following structure
 
 ### Step3.  
 
-Pull Request
+Pull Request (Please refer to the [Contribution Guidelines](CONTRIBUTING.md)
 
 **Please ensure that only one challenge is submitted per pull request.**
 
