@@ -1,7 +1,6 @@
-# JNSEC PWN  
+[English](README.md) | **简中** |
 
-- zh_CN [简体中文](README_CN.md)
-- en [English](README.md)
+# JNSEC PWN  
 
 JNSEC PWN 训练题目仓库  
 

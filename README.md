@@ -1,7 +1,6 @@
-# JNSEC PWN  
+**English** | [简中](README_CN.md) |
 
-- zh_CN [简体中文](README_CN.md)
-- en [English](README.md)
+# JNSEC PWN  
 
 JNSEC PWN Training Challenge Repository  
 
