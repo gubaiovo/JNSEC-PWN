@@ -31,9 +31,9 @@ Based on the [README](https://readme.md/), please try to complete your doc.json 
 
 ### 🔂 One PR, One Task
 
-- When adding a challenge, ensure each PR includes only one challenge. The PR title should indicate the challenge being added, e.g., `[Base][PIE] challenge addition`.
-- When modifying a challenge, ensure each PR includes only one modified challenge. The PR title should indicate the challenge being modified, e.g., `[Base][PIE] challenge modification`.
-- When deleting a plugin, ensure each PR includes only one deleted challenge. The PR title should indicate the challenge being deleted, e.g., `[Base][PIE] challenge deletion`.
+- When adding a challenge, ensure each PR includes only one challenge. The PR title should indicate the challenge being added, e.g., `Add [Base][PIE] challenge`.
+- When modifying a challenge, ensure each PR includes only one modified challenge. The PR title should indicate the challenge being modified, e.g., `Edit [Base][PIE] challenge`.
+- When deleting a plugin, ensure each PR includes only one deleted challenge. The PR title should indicate the challenge being deleted, e.g., `Delete [Base][PIE] challenge`.
 
 ### ⏳ Be Patient After Submitting a PR
 
